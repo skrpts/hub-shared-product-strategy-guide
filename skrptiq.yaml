@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "89bdb490-aad4-4f4f-b08d-33d3deb27faa"
+name: "product-strategy-guide"
+display_name: "Product Strategy Guide"
+description: "Reference framework for product strategy, vision alignment, and strategic decision-making"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-product-strategy-guide"
+category: "shared"
+tags:
+  - "shared"
+  - "source"
+contents:
+  skills: 0
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 1
+  documents: 0
+  assets: 0
+  total: 1
