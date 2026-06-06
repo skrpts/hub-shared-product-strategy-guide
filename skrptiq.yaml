@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "89bdb490-aad4-4f4f-b08d-33d3deb27faa"
+id: "3a177c81-62a5-4c66-a325-af3214103278"
 name: "product-strategy-guide"
 display_name: "Product Strategy Guide"
 description: "Reference framework for product strategy, vision alignment, and strategic decision-making"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
